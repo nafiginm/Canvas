@@ -1,0 +1,11 @@
+.container {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  justify-content: center;
+}
+canvas {
+  border: 1px solid black;
+  margin: 10px;
+}
